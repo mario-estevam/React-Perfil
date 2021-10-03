@@ -1,0 +1,105 @@
+.paragrafo{
+    color: white;
+    padding-top: 80px;
+    padding-left: 50px;
+    font-size: 35px;
+}
+
+body{
+    background-color: #011b4e;
+}
+
+.container1{
+    padding-top: 5rem;
+    padding-left: 15rem;
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+
+.ajust{
+    padding-top: 6%;
+    width: 25%;
+    height: 25%;
+    padding-right: 15rem;
+    padding-bottom: 40px;
+}
+
+.perfil{
+
+    width: 25%;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+
+.paragrafo2{
+    color: white;
+    text-align: justify;
+    padding-top: 8px;
+    padding-left:12%;
+    padding-right: 10rem;
+}
+
+.color{
+    color: rgb(160, 43, 228);
+}
+
+@media screen and (max-width: 960px) {
+
+
+    .paragrafo{
+        color: white;
+        padding-top: 8px;
+        padding-left: 29px;
+        font-size: 20px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .container1{
+        padding-top: 1rem;
+        padding-left: 1rem;
+        display: inline-block;
+    }
+    .container2{
+        display: inline-block;
+    }
+    
+    .ajust{
+        align-items: center;
+        padding-top: 6%;
+        width: 60%;
+        height: 60%;
+        padding-left: 10%;
+        padding-right: 1rem;
+        padding-bottom: 4px;
+    }
+    
+    .perfil{
+        padding-left: 15%;
+        width: 50%;
+        border-radius: 100%;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        -ms-border-radius: 100%;
+        -o-border-radius: 100%;
+    }
+    
+    .paragrafo2{
+        color: white;
+        text-align: justify;
+        padding-top: 8px;
+        padding-left:6%;
+        padding-right: 1rem;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .color{
+        color: rgb(160, 43, 228);
+    }
+    
+
+}
