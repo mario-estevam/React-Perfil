@@ -2,7 +2,7 @@
 
 https://mario-estevam.netlify.app
 
-<center> <a href="https://imgur.com/a/KsUUneV"><img src="https://imgur.com/a/KsUUneV" title="source: imgur.com" /></a> </center> <br/>
+<center> <a href="https://imgur.com/a/KsUUneV"><img src="https://i.imgur.com/xSilO0r.png" title="source: imgur.com" /></a> </center> <br/>
 
 
 # Getting Started with Create React App
